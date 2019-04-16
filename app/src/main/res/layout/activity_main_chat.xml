@@ -7,10 +7,10 @@
                 android:paddingRight="@dimen/activity_horizontal_margin"
                 android:paddingTop="@dimen/activity_vertical_margin"
                 android:background="@color/light_purple"
-                tools:context="com.londonappbrewery.flashchatnewfirebase.MainChatActivity">
+                tools:context="com.FlashChatByKamilNowak.flashchatnewfirebase.MainChatActivity">
 
     <ListView
-        android:id="@+id/chat_list_view"
+        android:id="@+id/rooms_list_view"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_above="@+id/listFooter"
